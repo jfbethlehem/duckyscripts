@@ -1,0 +1,11 @@
+z1 Hunt
+z2 Heal
+z3 Adventu
+z4 Chop
+z5 Fish
+z11 Inv
+z12 Buy10LP
+z13 Profile
+z14 RD
+z15 CD
+BG_COLOR 84 22 180

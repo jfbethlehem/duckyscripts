@@ -1,0 +1,3 @@
+STRING RPG rd
+ENTER
+

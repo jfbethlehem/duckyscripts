@@ -1,0 +1,24 @@
+z1 Zoom-
+z2 Reset
+z3 Zoom+
+z4 TPrev
+z5 Lock
+z6 TNext
+z7 PBack
+z8 Close
+z9 PForwar
+z10 PageUp
+z11 Up
+z12 PageDwn
+z13 Left
+z14 Down
+z15 Right
+BG_COLOR 105 15 150
+SWCOLOR_1 0 0 255
+SWCOLOR_2 0 0 255
+SWCOLOR_3 0 0 255
+SWCOLOR_5 255 0 0
+SWCOLOR_11 255 0 0
+SWCOLOR_13 255 0 0
+SWCOLOR_14 255 0 0
+SWCOLOR_15 255 0 0

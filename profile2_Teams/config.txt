@@ -1,0 +1,12 @@
+z1 Activit
+z2 Chat
+z3 Teams
+z4 Calenda
+z5 Calls
+z6 Files
+z8 PrevLis
+z9 NextLis
+z13 Hand
+z14 Mic
+z15 Video
+BG_COLOR 84 22 180
